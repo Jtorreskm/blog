@@ -1,0 +1,11 @@
+etsa es la historia 
+
+
+hoys ehabal
+
+
+<<<<<<< HEAD
+pruebas para mejorar en git
+=======
+pruebas para la histori laboral 
+>>>>>>> cabecera
